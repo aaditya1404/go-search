@@ -10,6 +10,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
+      <meta name="google-site-verification" content="fMKcn7IOkwXMG5UuFI0e41yhaQrdpU9xz1fn-EUu7TM" />
       <HomeHeader />
       <div className="flex flex-col items-center mt-24" >
         <Image
