@@ -2,10 +2,10 @@ import HomeHeader from "@/components/HomeHeader";
 import HomeSearch from "@/components/HomeSearch";
 import Image from "next/image";
 
-export const meta = {
-  name:"google-site-verification",
-  content:"fMKcn7IOkwXMG5UuFI0e41yhaQrdpU9xz1fn-EUu7TM"
-}
+// export const meta = {
+//   name:"google-site-verification",
+//   content:"fMKcn7IOkwXMG5UuFI0e41yhaQrdpU9xz1fn-EUu7TM"
+// }
 
 export default function Home() {
   return (
