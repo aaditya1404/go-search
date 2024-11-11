@@ -7,14 +7,7 @@ export default function Home() {
     <div>
       <HomeHeader />
       <div className="flex flex-col items-center mt-24" >
-        <Image
-          src={'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg'}
-          alt="Google Logo"
-          width={300}
-          height={100}
-          priority
-          style={{ width: "auto" }}
-        />
+        <p className="text-[60px] font-bold"><span className="text-[#4285F4]">Se</span><span className="text-[#EA4335]">ar</span><span className="text-[#FBBC04]">ch</span><span className="text-[#4285F4]">pe</span><span className="text-[#34A853]">di</span><span className="text-[#EA4335]">a</span></p>
         <HomeSearch />
       </div>
     </div>

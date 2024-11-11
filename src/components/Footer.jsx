@@ -8,7 +8,7 @@ export default function Footer() {
             <div
                 className="border-b px-8 py-3"
             >
-                <CountryLookup />
+                India
             </div>
             <div
                 className="flex flex-col sm:flex-row justify-between items-center px-8 py-3 space-y-7 sm:space-y-0"

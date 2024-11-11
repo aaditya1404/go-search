@@ -14,14 +14,7 @@ export default function SearchHeader() {
         className='flex w-full p-6 items-center justify-between'
       >
         <Link href={'/'}>
-          <Image
-            src={'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg'}
-            alt="Google Logo"
-            width={120}
-            height={40}
-            priority
-          // style={{ width: "auto" }}
-          />
+          <p className="text-[25px] font-bold"><span className="text-[#4285F4]">Se</span><span className="text-[#EA4335]">ar</span><span className="text-[#FBBC04]">ch</span><span className="text-[#4285F4]">pe</span><span className="text-[#34A853]">di</span><span className="text-[#EA4335]">a</span></p>
         </Link>
         <div
           className='flex-1'
